@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é um Sistema de Recursos Humanos (RH) que facilita a gestão de funcionários, incluindo operações CRUD (Criar, Ler, Atualizar, Excluir) para gerenciar informações de funcionários. O sistema inclui funcionalidades para visualizar, adicionar, editar e excluir dados dos funcionários, além de buscar informações específicas.
+Este projeto é um Sistema de Recursos Humanos (RH) que facilita a gestão de funcionários, incluindo operações básicas de cadastro e login.
 
 ## Tecnologias Utilizadas
 
@@ -14,14 +14,12 @@ Este projeto é um Sistema de Recursos Humanos (RH) que facilita a gestão de fu
 
 O sistema de RH inclui as seguintes funcionalidades:
 
-- **Visualização de Funcionários**: Lista de todos os funcionários cadastrados no sistema.
-- **Pesquisa de Funcionários**: Busca por funcionários com base em critérios específicos (ex: nome, departamento).
-- **Administração de Funcionários**: 
-  - Adicionar novos funcionários.
-  - Editar informações de funcionários existentes.
-  - Excluir funcionários do sistema.
+- **Cadastrar**: Criação de usuário, cadastro de informações pessoais.
+- **Acessar**: Login de usuários já existentes.
+- **Sair do sistema**: Fazer Logoff
+
  
-  ## Licença
+## Licença
 
 Este projeto é fornecido sob a Licença [MIT](LICENSE).
 
